@@ -1,0 +1,4 @@
+https://oauth.vk.com/authorize?client_id=6642472&display=page&redirect_uri=&scope=friends,messages&response_type=token&v=5.52
+
+
+https://oauth.vk.com/blank.html#access_token=d8aae160174ccbd8b915b97f2ab870b7a8fd50369412e7eefb64fc555c1c5076ed623fd960c057015e57e&expires_in=86400&user_id=118217826
