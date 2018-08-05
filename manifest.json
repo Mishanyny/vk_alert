@@ -6,7 +6,7 @@
 
     "content_scripts": [{
       "matches": ["https://vk.com/*"],
-      "js": ["jquery.js","contentScript_jq.js"]
+      "js": ["jquery.js"]
   }],
     
     "background": {
